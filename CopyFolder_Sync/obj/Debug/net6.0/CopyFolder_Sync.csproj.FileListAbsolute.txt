@@ -1,0 +1,15 @@
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\bin\Debug\net6.0\CopyFolder_Sync.exe
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\bin\Debug\net6.0\CopyFolder_Sync.deps.json
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\bin\Debug\net6.0\CopyFolder_Sync.runtimeconfig.json
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\bin\Debug\net6.0\CopyFolder_Sync.dll
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\bin\Debug\net6.0\CopyFolder_Sync.pdb
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.csproj.AssemblyReference.cache
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.GeneratedMSBuildEditorConfig.editorconfig
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.AssemblyInfoInputs.cache
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.AssemblyInfo.cs
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.csproj.CoreCompileInputs.cache
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.dll
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\refint\CopyFolder_Sync.dll
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.pdb
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\CopyFolder_Sync.genruntimeconfig.cache
+F:\all task\CopyFolder_Sync\CopyFolder_Sync\obj\Debug\net6.0\ref\CopyFolder_Sync.dll
